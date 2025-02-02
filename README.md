@@ -8,7 +8,7 @@ Transform your ideas into breathtaking AI-generated images with just a text prom
 
 Check out the sleek interface below! ⬇️
 
-https://github.com/user-attachments/assets/a50088ec-701c-48de-8207-7c2457b19bf0
+![Image](https://github.com/user-attachments/assets/a50088ec-701c-48de-8207-7c2457b19bf0)
 
 🌍 Explore a community gallery filled with AI masterpieces!
 
