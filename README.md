@@ -1,6 +1,6 @@
 Transform your ideas into breathtaking AI-generated images with just a text prompt! 🖌️ Powered by DALL·E & ClipDrop API, this app lets you generate, explore, and share AI-powered artworks effortlessly.
 
-✨ Features:
+✨ Features: 
 
 ✔️ Generate AI images from text prompts 🤖
 
